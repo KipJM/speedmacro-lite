@@ -25,6 +25,7 @@ A minimal sample firmware build is provided.
 
 ## Bill of Materials
 - 9x Cherry MX Switches
+- 9x Cherry MX hotswap sockets
 - 6x 1u DSA keycaps
 - 2x 1.5u DSA keycaps
 - 1x 3u DSA keycap (with stabs)
